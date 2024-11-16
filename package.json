@@ -1,0 +1,14 @@
+{
+  "name": "potential-octo-enigma",
+  "version": "1.0.0",
+  "description": "This is the example repo for tutorials today.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  }
+}
